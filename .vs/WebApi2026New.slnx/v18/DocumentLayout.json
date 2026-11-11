@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|c:\\users\\komsu\\onedrive\\documentos\\webapi2026new\\webapi2026new\\webapi2026new\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|solutionrelative:webapi2026new\\controllers\\direccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|c:\\users\\komsu\\onedrive\\documentos\\webapi2026new\\webapi2026new\\webapi2026new\\dtos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|solutionrelative:webapi2026new\\dtos\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|c:\\users\\komsu\\onedrive\\documentos\\webapi2026new\\webapi2026new\\webapi2026new\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|solutionrelative:webapi2026new\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|c:\\users\\komsu\\onedrive\\documentos\\webapi2026new\\webapi2026new\\webapi2026new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|solutionrelative:webapi2026new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|c:\\users\\komsu\\onedrive\\documentos\\webapi2026new\\webapi2026new\\webapi2026new\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|solutionrelative:webapi2026new\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|c:\\users\\komsu\\onedrive\\documentos\\webapi2026new\\webapi2026new\\webapi2026new\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50465CFB-777E-550F-2638-F999BFE8DD33}|WebApi2026New\\WebApi2026New.csproj|solutionrelative:webapi2026new\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DireccionController.cs",
+              "DocumentMoniker": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Controllers\\DireccionController.cs",
+              "RelativeDocumentMoniker": "WebApi2026New\\Controllers\\DireccionController.cs",
+              "ToolTip": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Controllers\\DireccionController.cs",
+              "RelativeToolTip": "WebApi2026New\\Controllers\\DireccionController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:20:16.418Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "WebApi2026New\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "WebApi2026New\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowE8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:19:16.77Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi2026New\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi2026New\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:15:02.65Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi2026New\\Program.cs",
+              "ToolTip": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Program.cs",
+              "RelativeToolTip": "WebApi2026New\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:06:09.875Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "WebApi2026New\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "WebApi2026New\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:04:23.435Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\DTOs\\PersonaDTO.cs",
+              "RelativeDocumentMoniker": "WebApi2026New\\DTOs\\PersonaDTO.cs",
+              "ToolTip": "C:\\Users\\KomSu\\OneDrive\\Documentos\\WebApi2026New\\WebApi2026New\\WebApi2026New\\DTOs\\PersonaDTO.cs",
+              "RelativeToolTip": "WebApi2026New\\DTOs\\PersonaDTO.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA0wC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:02:41.023Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
